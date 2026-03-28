@@ -6,7 +6,7 @@
 
 ### 🎓 Formación y Metas
 - 📚 Estudiante de **Ingeniería en Sistemas Computacionales**.
-- 🚀 Enfocado en dominar **Python, C++ y Java** para crear soluciones de automatización.
+- 🚀 Enfocado en dominar **Python, C++, C# y Java** para crear soluciones de automatización.
 - 🤖 Mi gran meta: Desarrollar un **asistente personal con IA** totalmente personalizado.
 
 ### 🚗 Proyectos Reales
@@ -31,7 +31,7 @@
 
 ### 🎓 Education & Goals
 - 📚 **Computer Systems Engineering** Student.
-- 🚀 Focused on mastering **Python, C++, Java, and C#** for automation.
+- 🚀 Focused on mastering **Python, C++, Java, C# and C#** for automation.
 - 🤖 Goal: Developing a custom **AI Personal Assistant**.
 
 ### 🚗 Real-World Projects
