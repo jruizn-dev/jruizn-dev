@@ -31,7 +31,7 @@
 
 ### 🎓 Education & Goals
 - 📚 **Computer Systems Engineering** Student.
-- 🚀 Focused on mastering **Python, C++, Java, C# and C#** for automation.
+- 🚀 Focused on mastering **Python, C++, C#, and Java** for automation.
 - 🤖 Goal: Developing a custom **AI Personal Assistant**.
 
 ### 🚗 Real-World Projects
